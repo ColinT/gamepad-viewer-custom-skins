@@ -1,0 +1,57 @@
+<svg width="131.8" height="68.232391" xmlns="http://www.w3.org/2000/svg">
+
+ <metadata id="metadata345">image/svg+xmlimage/svg+xml</metadata>
+ <style type="text/css">.st0{fill:#E8E8E8;}
+	.st1{fill:#314BC4;}
+	.st2{opacity:0.83;}
+	.st3{opacity:0.11;}
+	.st4{opacity:7.000000e-002;}
+	.st5{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st6{fill:#322366;}
+	.st7{fill:#423388;}
+	.st8{fill:#382874;}
+	.st9{fill:#C9CACC;}
+	.st10{opacity:0.1;}
+	.st11{opacity:3.000000e-002;fill:none;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;}
+	.st12{opacity:3.000000e-002;fill:#FFFFFF;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st13{opacity:5.000000e-002;}
+	.st14{fill:#FFFFFF;}
+	.st15{fill:#2C2454;}
+	.st16{fill:#CDCDCD;}
+	.st17{opacity:0.13;}
+	.st18{opacity:8.000000e-002;}
+	.st19{fill:#FFDC36;}
+	.st20{opacity:0.65;}
+	.st21{opacity:8.000000e-002;stroke:#000000;stroke-miterlimit:10;}
+	.st22{fill:#E7E7E7;}
+	.st23{display:none;}
+	.st24{display:inline;}
+	.st25{font-family:'FranklinGothic-DemiCond';}
+	.st26{font-size:20.8089px;}
+	.st27{font-size:6.8089px;}
+	.st28{font-size:20.2664px;}
+	.st29{font-size:6.9363px;}
+	.st30{fill:#F7F7F7;}
+	.st31{fill:#4DD0CA;}
+	.st32{fill:#ED0C1E;}</style>
+ <g id="g821">
+  <title transform="translate(0,0.0000026409975362184923) ">background</title>
+  <rect fill="none" id="canvas_background" height="70.232391" width="133.8" y="-1" x="-1"/>
+ </g>
+ <g id="g996">
+  <title transform="translate(0,0.0000026409975362184923) ">Layer 1</title>
+  <g id="Base">
+   <g id="Left_Trigger_1_">
+    <path fill="#e8e8e8" id="Left_Trigger" class="st0" d="m0.000003,68.232391c0,0 14.2,-40.5 47,-58.5c32.8,-18 66.7,-7.6 84.8,3.7c-131.8,54.8 -131.8,54.8 -131.8,54.8z"/>
+    <g opacity="0.83" class="st2" id="g16">
+     <g opacity="0.11" class="st3" id="g10">
+      <path d="m59.700003,19.232391l5.2,0l0,19.7l7.6,0l0,4.5l-12.8,0l0,-24.2z" id="path8"/>
+     </g>
+     <g class="st4" id="g14">
+      <path fill="none" stroke="#000000" stroke-miterlimit="10" class="st5" d="m59.700003,19.232391l5.2,0l0,19.7l7.6,0l0,4.5l-12.8,0l0,-24.2z" id="path12"/>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
