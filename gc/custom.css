@@ -1,0 +1,101 @@
+.controller.gc {
+  background-image: none;
+}
+
+.controller.gc::after {
+  position: relative;
+  z-index: -1;
+  top: -95px;
+  content: "";
+  display: inline-block;
+  width: 1000px;
+  height: 1000px;
+  background: url(https://raw.githubusercontent.com/ColinT/gamepad-viewer-custom-skins/master/gc/base.svg?sanitize=true) no-repeat;
+}
+
+.gc .triggers {
+  position: relative;
+  z-index: -1;
+}
+
+.gc .trigger.left {
+  display: none;
+}
+
+.gc .trigger.right {
+  display: none;
+}
+
+.gc .trigger-button.left {
+  float: left;
+  width: 131px;
+  height: 100%;
+  background: url(https://raw.githubusercontent.com/ColinT/gamepad-viewer-custom-skins/master/gc/left-trigger.svg?sanitize=true) no-repeat;
+  transform: translateY(135%);
+  transition: all 0.1s;
+}
+
+.gc .trigger-button.right {
+  float: right;
+  width: 131px;
+  height: 100%;
+  background: url(https://raw.githubusercontent.com/ColinT/gamepad-viewer-custom-skins/master/gc/right-trigger.svg?sanitize=true) no-repeat;
+  transform: translateY(127%);
+  transition: all 0.1s;
+}
+
+.gc .trigger-button.left.pressed {
+  transform: translateY(170%);
+}
+
+.gc .trigger-button.right.pressed {
+  transform: translateY(160%);
+}
+
+.gc .stick.left {
+  transform-style: preserve-3d;
+}
+
+.gc .stick.left::after {
+  content: '';
+  height: 129px;
+  width: 129px;
+  display: inline-block;
+  transform: translate3d(-4px, -4px, -10px);
+  transform-origin: 100% 50%;
+  background: grey;
+  border-radius: 50%;
+}
+
+.gc .stick.right {
+  background: url(https://raw.githubusercontent.com/ColinT/gamepad-viewer-custom-skins/master/gc/flooshed.png) center no-repeat;
+  transform-style: preserve-3d;
+}
+
+.gc .stick.right::after {
+  content: '';
+  height: 94px;
+  width: 94px;
+  display: inline-block;
+  transform: translate3d(-5px, -5px, -15px);
+  //transform: rotateY(-90deg);
+  transform-origin: 100% 50%;
+  background: goldenrod;
+  border-radius: 50%;
+}
+
+.button.a.pressed {
+  width: 74px;
+  height: 74px;
+  background-image: none;
+  border: 20px solid yellow;
+  border-radius: 50%;
+}
+
+.button.b.pressed {
+  width: 31px;
+  height: 31px;
+  background-image: none;
+  border: 20px solid yellow;
+  border-radius: 50%;
+}
